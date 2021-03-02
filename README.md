@@ -1,4 +1,4 @@
-# task-tracker
+# vue-crm
 
 ## Project setup
 ```
